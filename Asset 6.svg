@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20.65 20.65">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e7ff6c;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x=".12" y=".12" width="20.4" height="20.4" rx="2.13" ry="2.13"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g class="cls-2">
+        <image width="800" height="800" transform="translate(.12 .12) scale(.03)" xlink:href="../Simon.png"/>
+      </g>
+      <rect class="cls-1" x=".12" y=".12" width="20.4" height="20.4" rx="2.13" ry="2.13"/>
+    </g>
+  </g>
+</svg>
